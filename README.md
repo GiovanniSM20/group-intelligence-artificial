@@ -12,8 +12,7 @@ heigt=""/>
 - [Caio Baracat]()
 - [Glaucio Fonseca]()
 - [Rubens II]()
-
- - Link for the group on [What's App:](https://chat.whatsapp.com/invite/E8FSg91U1SK6vlJJVMop0z)
+  - Link for the group on [What's App:](https://chat.whatsapp.com/invite/E8FSg91U1SK6vlJJVMop0z)
 
 ### If you want copy the repository for your computer, download the tool [Git](https://git-scm.com/)
 ```clone
